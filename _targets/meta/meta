@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+data_file|stem|bfc07af8f4ddc635|a7a1a7338cbe3811|ef46db3751d8e999|1397204146|data/test_data.dta|t19001.4684103536s|bda9ee1d9a2d1c03|1096851|file|vector|||0.912||
+r_data|stem|340dea7225b72fc6|1430592be6ccb330|d32a202eed4b434f|-894039728||t19001.477753741s|1c14fdf21a284018|250359|rds|vector|||0.044||
+working_df|stem|6ec7ba8b65efec8d|3205e411926270ef|4334406708a02709|689211870||t19001.4858011814s|0f366b433dea176a|252815|rds|vector|||0.024||
